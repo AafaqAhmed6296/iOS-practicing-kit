@@ -13,4 +13,7 @@ This repository contains the topics of swift and iOS for Learning.
     * [Stringly typed filters](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CoreImagePipline.md#stringly-typed-filters) 
     * [Strongly typed filters](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CoreImagePipline.md#strongly-typed-filters) 
     * [Filters Chain](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CoreImagePipline.md#filters-chain) 
-  * [Oupting / Saving Images](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CoreImagePipline.md#savingoutputing-images)
+  * [Oupting / Saving Images](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CoreImagePipline.md#savingoutputing-images)d
+### Advance Topics
+* Extracting Images Mattes
+* 
