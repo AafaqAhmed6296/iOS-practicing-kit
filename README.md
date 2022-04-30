@@ -22,3 +22,13 @@ This repository contains the topics of swift and iOS for Learning.
 ](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/AdvanceTopis.md#sunbeam-generator)
   * [QRCode Generator
 ](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/AdvanceTopis.md#qrcode-generator)
+* [Creating Custom Filters and Kernals](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CreateOwnFilter.md#create-custom-kernels-and-filters)
+    *  [Create a Metal Kernel](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CreateOwnFilter.md#create-a-metal-kernel)
+       *  [Compile settings for Metal Kernel](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CreateOwnFilter.md#compile-settings-for-metal-kernel)
+       *  [Passthrough Kernel](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CreateOwnFilter.md#passthrough-kernel)
+       *  [Wrap a kernel in a Filter](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CreateOwnFilter.md#wrap-a-kernel-in-a-filter)
+    * [Create a Color Space Transform](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CreateOwnFilter.md#create-a-color-space-transform)
+        *  [RGBToYCbCr and YCbCrToRGB Filter Kernel](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CreateOwnFilter.md#rgbtoycbcr-and-ycbcrtorgb-filter-kernel)
+    * [Create BilateralFilter](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CreateOwnFilter.md#create-bilateralfilter)
+        * [Create BilateralKernal](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CreateOwnFilter.md#create-bilateralkernal)
+        * [How to use Inside Filter](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CreateOwnFilter.md#use-inside-filter)

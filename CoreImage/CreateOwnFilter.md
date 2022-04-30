@@ -181,13 +181,13 @@ extern "C" {
 > Wrap up kernel inside Filters as we done for Passthrough Filter Kernal above.
 
 ### Results after Conversion from RGB to YCbCr
-![RGBToYCbCr]()
+![RGBToYCbCr](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/images/rgbToYcbcr.png)
 
 ### Results after Reverse Operation
-![YCbCrToRGB]()
+![YCbCrToRGB](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/images/ycbrToRgb.png)
 
 
-# Create BilateralFiler
+# Create BilateralFilter
 --- 
 ## Create BilateralKernal
 
@@ -258,4 +258,4 @@ class BilateralFilter: CIFilter {
 > Above Filter is Convolutional and works better on intensity channel. So we can first switch to YCbCr Color space using filtering chain and then after applying bilateral filter switch back to RGB Color Space
 
 ### Final Bilateral Filter.
-![Bilaterla Filter]()
+![Bilateral Filter](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/images/filter1.gif)
