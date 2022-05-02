@@ -34,4 +34,9 @@ This repository contains the topics of swift and iOS for Learning.
         * [How to use Inside Filter](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CreateOwnFilter.md#use-inside-filter)
   
 ## Enums
+* [Enumerations](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/Enums/Enums.md#enumerations)
+* [Associated Value with Enums](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/Enums/Enums.md#associated-value-with-enums)
+* [Using RawRepresentable](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/Enums/Enums.md#using-rawrepresentable)
+* [Iterate Over Enum](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/Enums/Enums.md#iterate-over-enum)
+* [RawRepresentable to Create Checked Type](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/Enums/Enums.md#rawrepresentable-directly-to-create-simple-checked-types)
 * [Enums as Custom Errors](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/Enums/Enums.md#how-to-use-enum-for-custom-error)
