@@ -32,3 +32,6 @@ This repository contains the topics of swift and iOS for Learning.
     * [Create BilateralFilter](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CreateOwnFilter.md#create-bilateralfilter)
         * [Create BilateralKernal](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CreateOwnFilter.md#create-bilateralkernal)
         * [How to use Inside Filter](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/CoreImage/CreateOwnFilter.md#use-inside-filter)
+  
+## Enums
+* [Enums as Custom Errors](https://github.com/AafaqAhmed6296/iOS-practicing-kit/blob/main/Enums/Enums.md#how-to-use-enum-for-custom-error)
